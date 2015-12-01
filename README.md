@@ -34,5 +34,4 @@ TAGS Share your spreadsheet with both Ed and me at these addresses:
 ehs@pobox.com, mkirschenbaum@gmail.com Writing your data story here 
 (each of you) and sharing the sheet via Google completes the Exercise.
 
-You may notice that the format of this page is [Markdown](https://help.github.com/articles/markdown-basics/). Feel free to use it in your data story if you want. When you create your file just make sure it has the `.md` file extension.
-
+To create your file first fork the repository, and then use the <button>New File</button> button near the top of the screen to create a new file using your name as the filename: e.g. `matt_kirschenbaum.md`. Then edit the file as needed and when you are done try to send a pull request. You may notice that the format of the page is [Markdown](https://help.github.com/articles/markdown-basics/). Feel free to use markdown in your data story if you want. 
