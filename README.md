@@ -29,9 +29,12 @@ draw and what the limits of those insights are. You may reference
 Pasquale or other readings if it seems helpful, but your focus should 
 be on your data set, not responding to the readings.
 
-3. Finally--and critically--please have whichever partner is running 
-TAGS Share your spreadsheet with both Ed and me at these addresses: 
-ehs@pobox.com, mkirschenbaum@gmail.com Writing your data story here 
-(each of you) and sharing the sheet via Google completes the Exercise.
+3. Finally--and critically--please add the URL for your TAGS spreadsheet 
+to your data story. If you have trouble doing this feel free to share 
+your spreadsheet with Ed or me at these addresses: ehs@pobox.com, 
+mkirschenbaum@gmail.com. Writing your data story here (each of you) and 
+sharing the sheet via Google completes the Exercise.
 
-To create your file first fork the repository, and then use the `New File` button near the top of the screen to create a new file using your name as the filename: e.g. `matt_kirschenbaum.md`. Then edit the file as needed and when you are done try to send a pull request. You may notice that the format of the page is [Markdown](https://help.github.com/articles/markdown-basics/). Feel free to use markdown in your data story if you want. 
+### Adding your Story
+
+To create your data story first fork this repository, and then use the `New File` button near the top of the screen to create a new file using your name as the filename: e.g. `matt_kirschenbaum.md`. Then edit the file as needed. You may notice that the format of the page is [Markdown](https://help.github.com/articles/markdown-basics/). Feel free to use markdown in your data story if you want. When you are done try to send a pull request so your changes can be merged into the master repository. If you run into trouble feel free to email [Ed](mailto:ehs@pobox.com)
