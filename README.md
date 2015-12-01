@@ -5,11 +5,11 @@ the University of Maryland (Fall 2015).
 
 **Due: Thursday, December 10 at 5pm.**
 
-Your final exercise for the course is to use Google Sheets with the TAGS 
-plug-in to collect data from Twitter and tell a short "data story" about 
-the data you have collected. You will be working with a partner from a 
-single shared data set; however, you will EACH BE SUBMITTING YOUR OWN 
-INDIVIDUAL DATA STORY.
+Your final exercise for the course is to use Google Sheets with the
+[TAGS](https://tags.hawksey.info/) plug-in to collect data from Twitter 
+and tell a short "data story" about the data you have collected. You 
+will be working with a partner from a single shared data set; however, 
+you will EACH BE SUBMITTING YOUR OWN INDIVIDUAL DATA STORY.
 
 1. With your partner, decide on a data set to collect. You might choose a 
 particular individual or Twitter account, or a hashtag, or phrase or term. 
