@@ -48,7 +48,10 @@ I thought it might be interesting to see who Lockwood corresponds with the most 
 * [@PKhakpour](https://twitter.com/PKhakpour) - [Porochista Khakpour](https://en.wikipedia.org/wiki/Porochista_Khakpour) (Iranian-American writer)
 * [@McKelvie](https://twitter.com/McKelvie) - [Jamie McKelvie](https://en.wikipedia.org/wiki/Jamie_McKelvie) (British Cartoonist)
 
-I thought it was interesting the the top person she corresponded with didn't seem to be easily googlable even though he had a somewhat distinctive name.  Erskine's profile says he lives in Louisville, Kentucky which isn't far from St Louis and Cincinnati, both of which are places Lockwood has lived in the past. According to the [New York Times](http://www.nytimes.com/2014/06/01/magazine/the-smutty-metaphor-queen-of-lawrence-kansas.html) she seems to be currently living in Lawrence, Kansas. Perhaps they knew each other in the past and are keeping in touch via Twitter. I guess this is a somewhat creepy analysis. I'm going to stop now.
+I thought it was interesting the the top person she corresponded with didn't seem to be easily googlable even though he had a somewhat distinctive name.  Erskine's profile says he lives in Louisville, Kentucky which isn't far from St Louis and Cincinnati, both of which are places Lockwood has lived in the past.  According to the [New York Times](http://www.nytimes.com/2014/06/01/magazine/the-smutty-metaphor-queen-of-lawrence-kansas.html) she seems to be currently living in Lawrence, Kansas. Perhaps they knew each other in the past and are keeping in touch via Twitter. The http://lfriendys.com website Erskine has linked from his Twitter profile was [registered](http://whois.domaintools.com/lilfriendys.com) in 2014 using an address in St Louis. So perhaps they knew each other there. It's possible to [search](https://twitter.com/search?q=cat_beltane+tricialockwood) and scan all their public correspondence, which goes back to September 16, 2011.
+
+*Ok, this is starting to feel creepy now.*
+
 
 
 
