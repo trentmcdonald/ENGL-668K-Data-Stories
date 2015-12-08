@@ -21,7 +21,7 @@ The most active tweeter during this period was user Ufcvancouverbc, who goes by 
 
 The authors with the greatest following to spread the news of Weiland’s death were @Pitchfork (a website covering music news) with 2.96M followers; @JoeRogan with 1.74M followers; and @THR (a Hollywood media news outlet) with 1.72M. After these three there is somewhat of a steep decline in posters with a large following. I was able to find this information by organizing a pivot table, organizing the authors by their number of followers. 
 
-One noteworthy author with a moderately-large following (285k) and a highly retweeted post was Dave Navarro, host of the television show “Inkmaster,” and guitarist for Jane’s Addiction and (briefly) the Red Hot Chili Peppers. His tweet was retweeted 51 times. Navarro was probably a friend of Weiland’s, being one of his contemporaries in the 90s rock scene. 
+One noteworthy author with a moderately-large following (285k) and a highly retweeted post was Dave Navarro, host of the television show “Inkmaster,” and guitarist for Jane’s Addiction and (briefly) the Red Hot Chili Peppers. His tweet was retweeted 2380 times. Navarro was probably a friend of Weiland’s, being one of his contemporaries in the 90s rock scene. 
 
 As expected, the top hashtag associated with the news was #rip, cited a total of 428 times in this dataset. #ripScottWeiland was the next most used hashtag at 208. #stp was the third most used hashtag at 149 times. 
 
