@@ -1,6 +1,6 @@
-ENGL668K
-Module 3 Exercise Data Story
-Michael Kurzmeier
+###ENGL668K
+###Module 3 Exercise Data Story
+####Michael Kurzmeier
 
 My approach for this module was to do a quantitative analysis of a large number of
 tweets from a single account. For this, I worked with the collected data of 798 tweets by
@@ -14,18 +14,18 @@ by the client side – Ronaldo lives in Madrid.
 This visualization reveals some insight into the relation between time of day and
 preferred device. Firstly, the strong difference in used devices which can be categorized as
 
-Mobile
+####Mobile
 Iphone 16
 Ipad 19
 Twitter for Android 99
 Mobile Web 3
 
-Desktop
+####Desktop
 Twitter web client 442
 Facebook 2
 Twitter for Websites 2
 
-And commercial
+####And commercial
 Sportlobster, a sports news website, 52
 Mobioinsider, an advertisement platform shut down in May 2015, 144
 VivaRonaldo, Ronaldo`s social network platform shut down in September 2015, 17
